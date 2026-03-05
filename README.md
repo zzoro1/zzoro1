@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Isyah </h1>
-<h3 align="center">Aspiring Front-End Developer | Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Web+Developer;Software+Engineer;Always+Learning+New+Things&center=true&width=500&height=50">
